@@ -1,3 +1,1 @@
-{
-  "settingsInheritedFrom": "Mend-developer-platform-load/whitesource-config@main"
-}
+{"settingsInheritedFrom": "Mend-developer-platform-load/whitesource-config@main", "remediateSettings": {"workflowRules": {"enabled": true, "minVulnerabilityScore": 9, "maxVulnerabilityScore": 10}}}
